@@ -23,8 +23,11 @@ The Sentiment140 dataset, available on [Kaggle](https://www.kaggle.com/datasets/
 
 ## 🔍 Getting Started
 1. Clone this repository.
-2. Download the Sentiment140 dataset from the provided link and paste it to data/ folder.
-3. Run `main.py` to preprocess the data, train the classifier, and evaluate its performance.
+2. Install the required packages using `pip`:
+   ```bash
+   pip install -r requirements.txt
+4. Download the Sentiment140 dataset from the provided link and paste it to data/ folder.
+5. Run `main.py` to preprocess the data, train the classifier, and evaluate its performance.
 
 ## 🌟 Connect
 Have questions, suggestions, or insights to share? Let's connect and discuss the exciting world of sentiment analysis!
