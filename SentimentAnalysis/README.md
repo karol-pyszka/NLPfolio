@@ -7,7 +7,6 @@ The Sentiment140 dataset, available on [Kaggle](https://www.kaggle.com/datasets/
 
 ## 📝 Files
 - `main.py`: The main script orchestrating the sentiment classification process.
-- `SentimentDataset.py`: Custom dataset class to load the Sentiment140 data.
 - `SentimentClassifier.py`: Implementation of the sentiment classification model.
 
 ## 📊 Results
